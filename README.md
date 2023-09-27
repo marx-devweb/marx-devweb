@@ -1,13 +1,13 @@
 # Olá! 👋 Eu sou o Marx 
-Bem vindo ao meu perfil do GitHub! Sou um desenvolvedor web apaixonado por transformar ideiais em realidade. Aqui no meu GitHub, você irá encrontrar meu trabalho, meus projetos e minhas contribuições para a comunidade de desenvolvedores. 
+Bem vindo ao meu perfil do GitHub! Sou um desenvolvedor web apaixonado por transformar ideiais em realidade. Aqui no meu perfil, você irá encrontrar meu trabalho, meus projetos e minhas contribuições para a comunidade de desenvolvedores. 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marx-devweb&show_icons=true&theme=transparent"/>
 </div>
 
 ## 🚀 Sobre mim
-- 🧑‍💻 Desenvolvedor Web Full Stack
+- 🧑‍💻 Desenvolvedor Web
 - 🌐 Apaixonado por tecnologias web modernas
-- 🎯 Sempre em busca de aprender e crescer
+- 🎯 Sempre em busca do constante aprendizado e crescimento
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 ## 🛠️ Habilidades
