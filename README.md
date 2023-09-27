@@ -20,7 +20,7 @@
 </div>
 
 ## Principais Repositórios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marx-devweb&repo=portfolio-marx)](https://github.com/marx-devweb/portfolio-marx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marx-devweb&repo=portfolio-marx)](https://github.com/marx-devweb/meu-portfolio)
 
 ## Encontre-me
 <div style="display: inline_block">
