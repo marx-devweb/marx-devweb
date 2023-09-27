@@ -12,21 +12,19 @@ Bem vindo ao meu perfil do GitHub! Sou um desenvolvedor web apaixonado por trans
 
 ## 🛠️ Habilidades
 Aqui estão algumas das habilidades que eu domino:
-- 💻 Linguagens: HTML, CSS, JavaScript e Typescript
-- ⚙️ Frameworks: React, Node.js, Bootstrap
-- 📦 Bancos de Dados: MySQL, MongoDB
-- 📂 Controle de Versão: Git, GitHub
-- 🎨 Design Responsivo: CSS Flexbox, Grid
-
+- 💻 **Linguagens**: HTML, CSS, JavaScript e Typescript
+- ⚙️ **Frameworks**: React, Node.js, Bootstrap
+- 📦 **Bancos de Dados**: MySQL, MongoDB
+- 📂 **Controle de Versão**: Git, GitHub
+- 🎨 **Design Responsivo**: CSS Flexbox, Grid
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marx-devweb&layout=compact"/>
 </div>
 
-
 ## 🔥Principais Projetos 
-Dê uma olhada em alguns dos meus projetos: <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marx-devweb&repo=portfolio-marx)](https://github.com/marx-devweb/meu-portfolio)
+Dê uma olhada em alguns dos meus projetos: <br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marx-devweb&repo=meu-portfolio)](https://github.com/marx-devweb/meu-portfolio)
 
 ## 📫 Entre em Contato
 Estou sempre aberto a novas conexões e colaborações. Se você quiser conversar ou trabalhar em algo juntos, sinta-se à vontade para me contatar:
@@ -37,10 +35,10 @@ Estou sempre aberto a novas conexões e colaborações. Se você quiser conversa
     <a href="malito:marx.devweb@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/marx-santos/" target="_blank">
+    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/marx-santos/" target="_blank">
+    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 </div>
