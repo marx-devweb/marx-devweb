@@ -29,10 +29,10 @@ Aqui estão algumas das habilidades que eu domino:
 </div>
 
 
-## 🔥Principais Projetos 
+## 🔥Principais Repositório 
 
 Dê uma olhada em alguns dos meus projetos: <br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marx-devweb&repo=meu-portfolio)](https://github.com/marx-devweb/meu-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marx-devweb&repo=programa-oracle-next-education)](https://github.com/marx-devweb/programa-oracle-next-education)
 
 ## 📫 Entre em Contato
 
@@ -49,4 +49,3 @@ Estou sempre aberto a novas conexões e colaborações. Se você quiser conversa
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
 </div>
-
